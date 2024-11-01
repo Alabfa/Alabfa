@@ -2,6 +2,8 @@
 
 I'm **Ali Shamsi**, a Flutter developer from Iraq.
 
+![](https://komarev.com/ghpvc/?username=alabfa&color=red)
+
 ---
 
 ### 🧑‍💻 About Me
