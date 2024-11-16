@@ -41,5 +41,3 @@ I'm **Ali Shamsi**, a Flutter developer from Iraq.
 
 ### 🌱 Current Goals
 - **Building engaging, scalable Flutter apps** to solve everyday problems.
-
-Thanks for stopping by, and happy coding!
